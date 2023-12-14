@@ -1,0 +1,14 @@
+.blabla{
+    align-items: center;
+}
+
+.side-bar{
+    height: calc(100vh - 48px );
+    
+    background-color: red;
+}
+
+.hehe{
+    height: 20px;
+    background-color: black;
+}
