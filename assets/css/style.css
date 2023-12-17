@@ -8,3 +8,12 @@ main #sidebar{
     background-size: cover;
     background-position: center;
 }
+
+.hehe{
+    background-color: red;
+    height: 20px;
+}
+
+.button{
+    background-color: #165BBA;
+}
