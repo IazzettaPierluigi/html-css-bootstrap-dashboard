@@ -9,11 +9,13 @@ main #sidebar{
     background-position: center;
 }
 
-.hehe{
-    background-color: red;
-    height: 20px;
-}
+
 
 .button{
     background-color: #165BBA;
+}
+
+.haha{
+    height: 20px;
+    background-color: blue;
 }
